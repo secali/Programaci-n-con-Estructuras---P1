@@ -1,0 +1,3 @@
+D:/Users/Sergio/Desktop/EjemploClase/build/CMakeFiles/acreed.dir
+D:/Users/Sergio/Desktop/EjemploClase/build/CMakeFiles/edit_cache.dir
+D:/Users/Sergio/Desktop/EjemploClase/build/CMakeFiles/rebuild_cache.dir

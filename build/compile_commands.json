@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Users/Sergio/Desktop/EjemploClase/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=c++23 -Wall -Wextra -pedantic -o CMakeFiles\\acreed.dir\\main.cpp.obj -c D:\\Users\\Sergio\\Desktop\\EjemploClase\\main.cpp",
+  "file": "D:\\Users\\Sergio\\Desktop\\EjemploClase\\main.cpp",
+  "output": "CMakeFiles\\acreed.dir\\main.cpp.obj"
+}
+]
